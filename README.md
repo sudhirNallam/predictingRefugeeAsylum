@@ -1,5 +1,6 @@
 # Predicting Refugee Asylum - Avengers
 
+Contributors: Ismail Mustafa(im969@nyu.edu) and Sudhir Nallam(psn240@nyu.edu)
 
 ### Directory structure
 
